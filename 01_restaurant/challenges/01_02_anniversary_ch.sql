@@ -8,4 +8,3 @@
 
 Create table AnniversaryAttendees (CustomerID integer, PartySize integer);
 
-.schema Customers;
